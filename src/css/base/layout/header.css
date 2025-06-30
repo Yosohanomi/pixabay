@@ -1,0 +1,29 @@
+.header {
+    padding: 20px 0px;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 30px;
+}
+.header__nav {
+}
+.header__nav__list {
+    display: flex;
+    gap: 15px;
+}
+.header__nav__item {
+}
+.header__nav__link {
+}
+
+.header__btn {
+    width: 100px;
+    height: 30px;
+    color:aliceblue;
+    background-color: red;
+}
